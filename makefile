@@ -1,3 +1,9 @@
+
+
+# !!!! en cour !!!!!
+
+
+
 # Répertoires des sources et des exécutables
 SRC_DIR = src
 BIN_DIR = bin
