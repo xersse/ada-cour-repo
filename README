@@ -1,0 +1,56 @@
+travail effectuer par anton verbrugghe avec l'aide de google et chatgpt
+
+
+# TP 1 - Programmation en Ada
+
+## Description
+Ce TP vise à aborder la conversion des algorithmes en Ada
+
+
+# TP 2 - Titre du TP
+
+## Description
+Structures de sélection et répétition
+
+
+## Structure du projet
+ada-tp-anton-verbrugghe/
+│
+├── src/
+│   ├── tp1/
+│   │    ├── ex1 -> hello.adb
+│   │    ├── ex2 -> Imprimer_Calendriers.adb
+│   │    └── ex3 -> Mention_Baccalaureat.adb
+│   │
+│   └── tp2/
+│        ├── ex1/
+│        │    ├── 1 -> Afficher_Entiers.adb
+│        │    └── 2 -> Afficher_Entiers_Pairs.adb
+│        │
+│        ├── ex2 -> Demander_Nombre.adb
+│        ├── ex3 -> Demander_Nombre.adb
+│        └── ex4 -> Somme_Des_Entiers.adb
+│
+├── bin/ -> en construction
+│
+├── docs/
+│     ├──R101-TP1.pdf
+│     └──R101-TP2.pdf
+│
+├── makefile -> en construction
+├── README.md
+└── LICENSE
+
+
+## Prérequis
+- Ada compiler (par exemple : GNAT)
+- Système d'exploitation : Linux, Windows, MacOS
+
+## Utilisation
+Pour exécuter le programme, tapez sur les .exe de chaques projets ou utilisez bash : ./nom_du_programme
+
+## Auteur(s)
+- Anton Verbrugghe 2024
+
+## Repo github
+
